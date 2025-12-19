@@ -7,7 +7,6 @@ import json
 # CONFIGURATION
 # =====================================================
 
-import os
 
 TENANT_ID = os.getenv("POWERBI_TENANT_ID")
 CLIENT_ID = os.getenv("POWERBI_CLIENT_ID")
